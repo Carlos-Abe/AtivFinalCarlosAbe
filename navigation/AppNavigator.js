@@ -1,4 +1,3 @@
-// navigation/AppNavigator.js
 import React, { useContext } from 'react';
 import { createStackNavigator } from '@react-navigation/stack';
 import { createDrawerNavigator } from '@react-navigation/drawer';

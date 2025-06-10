@@ -1,6 +1,9 @@
 <!-- Estudante: Carlos Eduardo Moura Abe
 Matrícula: 2324291011 -->
 
+Para ver este app, quando utilizar o npx expo start, veja na versão web.
+Porque por algum motivo o expo go não funciona.
+
 # Aplicativo Automotivo
 
 Este projeto é um aplicativo móvel desenvolvido com **React Native** (utilizando Expo). A aplicação simula um sistema automotivo completo, permitindo que o usuário se cadastre, faça login, visualize uma lista de carros e acesse detalhes de cada veículo. Além disso, o usuário pode conferir seu perfil e realizar o logout. A navegação é gerenciada por **React Navigation** (usando Stack e Drawer Navigator), enquanto a autenticação e outras conexões com o backend são feitas via **Firebase**.
